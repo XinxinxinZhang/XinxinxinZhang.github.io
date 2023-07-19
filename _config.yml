@@ -11,9 +11,9 @@ title                    : "Xinxin/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://xinxinxinzhang.github.io/xinxinpages.github.io/"
+url                      : "https://XinxinxinZhang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XinxinxinZhang/xinxinpages.github.io"
+repository               : "XinxinxinZhang/XinxinxinZhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
