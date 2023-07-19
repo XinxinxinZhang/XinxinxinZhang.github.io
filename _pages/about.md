@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xinxin Zhang, a second-year graduate student at [school of  Energy and Power Engineering] (http://sepe.buaa.edu.cn/),[Beihang University](https://www.buaa.edu.cn). My research interests include Machine Learning, Fluid Mechanics, Heat Transfer, and Inverse Problem.
+My name is Xinxin Zhang, a second-year graduate student at [school of  Energy and Power Engineering](http://sepe.buaa.edu.cn/),[Beihang University](https://www.buaa.edu.cn). My research interests include Machine Learning, Fluid Mechanics, Heat Transfer, and Inverse Problem.
+
 You can find my CV here: [XinXin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
